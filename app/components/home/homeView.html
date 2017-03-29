@@ -1,0 +1,64 @@
+	<div class="welcome"> 
+		<h3 class="w3ls-title">TSPSC.CO</h3>
+		<div class="welcome-info">
+			<div class="bs-example bs-example-tabs" role="tabpanel" data-example-id="togglable-tabs">
+			<p class="w3title-text">Be Alert for Latest Notifications and Importent Updates from TSPSC</p>
+				<ul id="myTab" class=" nav-tabs" role="tablist">
+					<li role="presentation">
+						<a ui-sref="notification" role="tab" id="carl-tab" data-toggle="tab" aria-controls="carl"> 
+						<span class="glyphicon glyphicon-bullhorn"></span>
+						<h5>Notifications</h5>
+						</a>
+					</li>
+					<li role="presentation" class="active">
+						<a ui-sref="syllabus" id="home-tab" role="tab" data-toggle="tab" aria-controls="home" aria-expanded="true">
+						<span class="glyphicon glyphicon-book"></span>
+						<h5>Syllabus</h5>
+						</a>
+					</li>
+					
+				</ul>
+			</div>
+			
+			<div class="bs-example bs-example-tabs" role="tabpanel" data-example-id="togglable-tabs">
+			<p class="w3title-text">Prove Your Skill Now In your Intrested Area</p>
+				<ul id="myTab" class=" nav-tabs" role="tablist">
+					<li role="presentation" class="active">
+						<a ui-sref="practicetest" id="home-tab" role="tab" data-toggle="tab" aria-controls="home" aria-expanded="true">
+						<span class="glyphicon glyphicon-asterisk"></span>
+						<h5>Practice</h5>
+						</a>
+					</li>
+					<li role="presentation">
+						<a ui-sref="mocktest" role="tab" id="carl-tab" data-toggle="tab" aria-controls="carl"> 
+						<span class="glyphicon glyphicon-time"></span>
+						<h5>Test</h5>
+						</a>
+					</li>
+					<li role="presentation">
+						<a ui-sref="comingsoon" role="tab" id="james-tab" data-toggle="tab" aria-controls="james"> 
+						<span class="glyphicon glyphicon-education"></span>
+						<h5>Exam</h5>
+						</a>
+					</li>
+				</ul>
+				
+			</div> 
+		</div>  	
+	</div> 
+	<!--<div class="w3agile properties" ng-controller="HomeController">
+		<div class="properties-top">
+			<h3 class="w3ls-title">List of Test</h3>
+			<p class="w3title-text">Check your Skill in Below Tests </p>
+		</div> 
+		<div class="properties-bottom" ng-repeat="test in tests">
+			<div class="w3ls-text">
+			<h5><a ui-sref="test({id:test.id_test})">{{test.name}}</a></h5>
+				<h6 ng-if="test.free==1">Free</h6>
+				<h6 ng-if="test.free!=1">{{test.fee}}</h6>
+				<p><b>Questions :</b> {{test.questions}} </p>
+				<p><b>Duration :</b> {{test.duration}}  </p>
+			</div>
+		</div> 
+		<div class="clearfix"> </div>
+	</div>-->

@@ -1,0 +1,23 @@
+<div class="about" ng-controller="NotificationDetailsController"> 
+	<h3 class="w3ls-title">{{notification.notification}}</h3> 
+	<h3 class="w3ls-title">Commencement Date : {{notification.commencement_date}}; Last Date : {{notification.last_date}}</h3>
+	
+	<div class="inner">
+		<section>
+			<header class="">
+				<h1></h1>
+				
+			</header>
+			<span class="image main">
+				<a class="media" style="width:100%;"></a>
+			</span>
+		</section>
+	</div>
+</div>
+
+<script type="text/javascript" src="assets/lib/jquery.media.js"></script> 
+<script type="text/javascript">
+	$('.media').attr('href','assets/notification/groupIInoti.pdf');
+	$('a.media').media();
+</script>
+

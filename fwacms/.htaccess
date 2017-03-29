@@ -1,0 +1,8 @@
+
+RewriteEngine On
+RewriteOptions inherit
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^(.*?)/?$ post.php?seo_url=$1 [QSA,L]

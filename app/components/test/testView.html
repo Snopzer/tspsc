@@ -1,0 +1,73 @@
+<div class="w3agile agents" ng-controller="TestController"> 
+	<h3 class="w3ls-title">{{test.name}}</h3> 
+	<div class="about" ng-show="!testStarted"> 
+		
+		<h3 class="w3ls-title">Instructions</h3> 
+		<p class="w3-text">Read the instructions carefully
+		<ul>
+			<li><span class="glyphicon glyphicon-menu-right"></span> Time {{test.duration}}</li>
+			<li><span class="glyphicon glyphicon-menu-right"></span> Questions  {{test.questions}}</li>
+			<li><span class="glyphicon glyphicon-menu-right"></span> {{test.description}} </li>
+		</ul>
+		</p>
+		<a ng-click="startTest()" class="w3-search">Start Test</a>
+	</div>
+	
+	<div class="w3agent-grid" ng-show="!testSubmitted && testStarted"> 
+		<form name="testForm" ng-submit="submitTest()" >
+			<div class="w3agent-text">
+				<h4>Q : {{question.question}}</h4>
+				<p>
+					<span class="glyphicon glyphicon-ok" ng-if="(question.option_selected && question.option_correct==1) || (question.option_selected && question.option_selected==question.option_correct && question.option_selected==1)"></span>
+					<span class="glyphicon glyphicon-remove" ng-if="question.option_selected && question.option_selected!=question.option_correct && question.option_selected==1"></span>
+					A : <input name="question_{{question.id_question}}" ng-model="question.option_selected" ng-value="1" type="radio" required> {{question.option_1}}
+				</p>
+				<p>
+					<span class="glyphicon glyphicon-ok" ng-if="(question.option_selected && question.option_correct==2) || (question.option_selected && question.option_selected==question.option_correct && question.option_selected==2)"></span>
+					<span class="glyphicon glyphicon-remove" ng-if="question.option_selected && question.option_selected!=question.option_correct && question.option_selected==2"></span>
+					B : <input name="question_{{question.id_question}}" ng-model="question.option_selected" ng-value="2" type="radio" required> {{question.option_2}}
+				</p>
+				<p>
+					<span class="glyphicon glyphicon-ok" ng-if="(question.option_selected && question.option_correct==3) || (question.option_selected && question.option_selected==question.option_correct && question.option_selected==3)"></span>
+					<span class="glyphicon glyphicon-remove" ng-if="question.option_selected && question.option_selected!=question.option_correct && question.option_selected==3"></span>
+					C : <input name="question_{{question.id_question}}" ng-model="question.option_selected" ng-value="3" type="radio" required> {{question.option_3}}
+					</p>
+				<p>
+					<span class="glyphicon glyphicon-ok" ng-if="(question.option_selected && question.option_correct==4) || (question.option_selected && question.option_selected==question.option_correct && question.option_selected==4)"></span>
+					<span class="glyphicon glyphicon-remove" ng-if="question.option_selected && question.option_selected!=question.option_correct && question.option_selected==4"></span>
+					D : <input name="question_{{question.id_question}}" ng-model="question.option_selected" ng-value="4" type="radio" required> {{question.option_4}}
+					</p>
+			</div>
+			
+			<a ng-click="showQuestion(questionNav.id_question)" ng-repeat="questionNav in questions" class="w3-search popup-top-anim w3ls-title"> {{questionNav.id_question}} </a><br />
+			<a class="w3-search popup-top-anim w3ls-title" ng-click="submitTest()"> Submit Test </a>
+			
+		</form>		
+	</div>
+	
+	<div id="small-dialog1" ng-show="testSubmitted">
+		<div class="login-modal">  
+			<div class="booking-info">
+				<h3><a href="index.html">Score Board</a></h3>
+			</div>
+			<div class="login-form signup-form">
+				<div class="styled-input">
+					<input type="text" value="{{testScore}}"/>
+					<label>Score</label>
+				</div>
+				<div class="styled-input">
+					<input type="text" value="{{attempt}}"/>
+					<label>Attempt</label>
+				</div>
+				<div class="styled-input">
+					<input type="text" value="{{correct}}"/>
+					<label>Correct</label>
+				</div>
+				
+				<a ui-sref="practicetest">Goto Practice Tests</a>
+			</div> 
+		</div>
+	</div>
+	
+	<div class="clearfix"> </div>
+</div>

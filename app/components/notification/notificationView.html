@@ -1,0 +1,22 @@
+<!-- agents -->
+<div class="about" ng-controller="NotificationController"> 
+	<h3 class="w3ls-title">Notifications</h3> 
+	<table class="table table-striped">
+		<thead>
+			<tr>
+				<th>S.no</th>
+				<th>Notification</th>
+				<th>Date Of Commencemet</th>
+				<th>Last Date</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr ng-repeat="notification in notifications">
+				<th scope="row">{{$index +1}}</th>
+				<td><a ui-sref="notificationDetails({id:notification.id_notification})">{{notification.notification}}</a></td>
+				<td>{{notification.commencement_date}}</td>
+				<td>{{notification.last_date}}</td>
+			</tr>
+		</tbody>
+	</table>
+</div>

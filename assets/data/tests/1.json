@@ -1,0 +1,43 @@
+{
+    "questions": [ {
+        "id_question": "1", "question": "Father of India", "option_1": "Gandhi", "option_2": "Nehru", "option_3": "Patel", "option_4": "Nizam", "option_correct": "1", "notes": ""
+    }
+    ,
+    {
+        "id_question": "2", "question": "Snopzer Company Head Quarters Located in", "option_1": "Hyderabad", "option_2": "Delhi", "option_3": "Madhya Pradesh", "option_4": "None of the above", "option_correct": "1", "notes": ""
+    }
+    ,
+    {
+        "id_question": "3", "question": "Railway Passenger coaches are manufactured at", "option_1": "Varanasi", "option_2": "Chotta Ranjan", "option_3": "Parambur", "option_4": "Kolkata", "option_correct": "3", "notes": "The Integral Coach Factory at Perambur has become a leading rail coach manufacturing factory in the world. Chittaranjan Loco Works now produce diesel engines. Diesel engines are also being assembled at varanasi and Jamshedpur (Tata Elecrtic company of TELCO), BEML also manufactures railway wagons."
+    }
+    ,
+    {
+        "id_question": "4", "question": "When and by whom the PIN coode system was introduced in India ?", "option_1": "Savinder Singh", "option_2": "Shriram Bhikaji Velankar ", "option_3": "D.R. Khullar ", "option_4": "Mahesh Barnwal", "option_correct": "2", "notes": "The PIN code system was introduced on 15 th August 1972 by Shriram Bhikaji Velankar. Currently India has six digit post code and soon it will be converted in eight digits."
+    }
+    ,
+    {
+        "id_question": "5", "question": "Which of the following is \"Blue Planet\" ?\r\n\r\n\r\nA) Jupiter \tB) \r\nC) D) ", "option_1": "Jupiter", "option_2": "Mars", "option_3": "Earth ", "option_4": "Saturn", "option_correct": "3", "notes": ""
+    }
+    ,
+    {
+        "id_question": "6", "question": "Who is the author of the book \"kotha vantena\"?", "option_1": "Allam Narayana", "option_2": "Sunkireddi Narayana Reddy", "option_3": "K.Srinivas", "option_4": "Sangisetty Srinivas", "option_correct": "3", "notes": ""
+    }
+    ,
+    {
+        "id_question": "7", "question": "The cause of the bhopal disaster that affected 5 lakhs of the people in december 1984 is caused by:", "option_1": "Earthquake", "option_2": "Floods", "option_3": "Industrial accident", "option_4": "Tsunami", "option_correct": "3", "notes": ""
+    }
+    ,
+    {
+        "id_question": "8", "question": "Which company has released a list of Top ten dangerous countries in the world based on Country Threat Index?", "option_1": "IntelChrome", "option_2": "IntelCenter", "option_3": "IntelTop", "option_4": "IntelMix", "option_correct": "2", "notes": ""
+    }
+    ,
+    {
+        "id_question": "9", "question": "Who has been appointed as India\u2019s First Cyber Security Chief?", "option_1": "Dinesh Bhattacharya", "option_2": "Gulshan Rai", "option_3": "Ramesh Agarwal", "option_4": "Rajesh Gupta", "option_correct": "2", "notes": ""
+    }
+    ,
+    {
+        "id_question": "10", "question": "Which company has released a list of Top ten dangerous countries in the world based on Country Threat Index?", "option_1": "IntelChrome", "option_2": "IntelCenter", "option_3": "IntelTop", "option_4": "IntelMix", "option_correct": "2", "notes": ""
+    }
+    
+    ]
+}

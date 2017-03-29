@@ -1,0 +1,21 @@
+<!-- agents -->
+<div class="about" ng-controller="SyllabusController"> 
+	<h3 class="w3ls-title">Syllabus</h3> 
+	<table class="table table-striped">
+		<thead>
+			<tr>
+				<th>S.no</th>
+				<th>Exams</th>
+				<th></th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr ng-repeat="a in range(4) track by $index">
+				<th scope="row">{{$index +1}}</th>
+				<th scope="row">Group {{$index +1}}</th>
+				<td><a ui-sref="syllabusdetails">view</a></td>
+								
+			</tr>
+		</tbody>
+	</table>
+</div>

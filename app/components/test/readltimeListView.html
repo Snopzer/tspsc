@@ -1,0 +1,18 @@
+	<!-- properties -->
+	<div class="w3agile properties" ng-controller="HomeController">
+		<div class="properties-top">
+			<h3 class="w3ls-title">Practice Tests</h3>
+			<p class="w3title-text">Check your Skill in Below Tests </p>
+		</div> 
+		<div class="properties-bottom" ng-repeat="test in tests">
+			<div class="w3ls-text">
+			<h5><a ui-sref="test({id:test.id_test})">{{test.name}}</a></h5>
+				<h6 ng-if="test.free==1">Free</h6>
+				<h6 ng-if="test.free!=1">{{test.fee}}</h6>
+				<p><b>Questions :</b> {{test.questions}} </p>
+				<p><b>Duration :</b> {{test.duration}}  </p>
+			</div>
+		</div> 
+		<div class="clearfix"> </div>
+	</div> 
+	<!-- //properties -->

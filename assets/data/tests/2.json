@@ -1,0 +1,43 @@
+{
+    "questions": [  {
+        "id_question": "1", "question": "Who has been appointed as India\u2019s First Cyber Security Chief?", "option_1": "Dinesh Bhattacharya", "option_2": "Gulshan Rai", "option_3": "Ramesh Agarwal", "option_4": "Rajesh Gupta", "option_correct": "2", "notes": ""
+    }
+    ,
+    {
+        "id_question": "2", "question": "General Muhammadu Buhari has been elected as the President of", "option_1": "Cameroon", "option_2": "Chad", "option_3": "Nigeria", "option_4": "Sudan", "option_correct": "3", "notes": ""
+    }
+    ,
+    {
+        "id_question": "3", "question": "Who has been appointed as the Chief of Western Naval Command on 31st Mar\u201915?", "option_1": "Surinder Pal Singh Cheema", "option_2": "Vikash Singh", "option_3": "Dhruv Patel", "option_4": "Kumar Gautham", "option_correct": "1", "notes": ""
+    }
+    ,
+    {
+        "id_question": "4", "question": "General Muhammadu Buhari has been elected as the President of", "option_1": "Cameroon", "option_2": "Chad", "option_3": "Nigeria", "option_4": "Sudan", "option_correct": "3", "notes": ""
+    }
+    ,
+    {
+        "id_question": "5", "question": "Who has been appointed as the Chief of Western Naval Command on 31st Mar\u201915?", "option_1": "Surinder Pal Singh Cheema", "option_2": "Vikash Singh", "option_3": "Dhruv Patel", "option_4": "Kumar Gautham", "option_correct": "1", "notes": ""
+    }
+    ,
+    {
+        "id_question": "6", "question": "Which of the following Indian state recently launched Aahar Scheme, a subsidised meal scheme for urban poor?", "option_1": "Tamilnadu", "option_2": "Bihar", "option_3": "Odisha", "option_4": "Chattisgarh", "option_correct": "3", "notes": ""
+    }
+    ,
+    {
+        "id_question": "7", "question": "Operation launched by GOI to evacuate Indians from Yemen is called", "option_1": "Operation Nishaant", "option_2": "Operation Raahat", "option_3": "Operation Mrutunjay", "option_4": "Operation Mitra", "option_correct": "2", "notes": ""
+    }
+    ,
+    {
+        "id_question": "8", "question": "Which of the following Indian state recently launched Aahar Scheme, a subsidised meal scheme for urban poor?", "option_1": "Tamilnadu", "option_2": "Bihar", "option_3": "Odisha", "option_4": "Chattisgarh", "option_correct": "3", "notes": ""
+    }
+    ,
+    {
+        "id_question": "9", "question": "Operation launched by GOI to evacuate Indians from Yemen is called", "option_1": "Operation Nishaant", "option_2": "Operation Raahat", "option_3": "Operation Mrutunjay", "option_4": "Operation Mitra", "option_correct": "2", "notes": ""
+    }
+    ,
+    {
+        "id_question": "10", "question": "Which of the following is one of the two schemes introduced in the new FTP Policy?", "option_1": "Manufacturing Exports from India Scheme", "option_2": "Services Imports from India Scheme", "option_3": "Machineries Exports from India Scheme", "option_4": "Services Exports from India Scheme", "option_correct": "4", "notes": ""
+    }
+    
+    ]
+}
