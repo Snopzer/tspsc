@@ -1,0 +1,52 @@
+{
+    "questions": [ 
+		{
+			"id_question": "1","id_test": 6,"id_subject": 0,"question": "\"Crossing\" applies to", "option_1": "Cheques", "option_2": "Bills of Exchange", "option_3": "Promissory Notes", "option_4": "Hundis", "option_correct": 1, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:23"
+		}
+		,
+		{
+			"id_question": "2", "id_test": 6, "id_subject": 0, "question": "The Head Office of National Housing Bank (NHB) is at", "option_1": "New Delhi", "option_2": "Banglore", "option_3": "Mumbai", "option_4": "Hyderabad", "option_correct": 1, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:23"
+		}
+		
+		,
+		{
+			"id_question": "3", "id_test": 6, "id_subject": 0, "question": "who among the following is not a woman Hockey player?", "option_1": "Deepika", "option_2": "Rani Rampal", "option_3": "Sushila Chanu", "option_4": "Apurvi Chandela", "option_correct": 4, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:23"
+		}
+		
+		,
+		{
+			"id_question": "4", "id_test": 6, "id_subject": 0, "question": "Chameli Devi Jain Award is given for outstanding woman?", "option_1": "Teachers", "option_2": "Sports persons", "option_3": "Scientists", "option_4": "Media Persons", "option_correct": 4, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:23"
+		}
+		
+		,
+		{
+			"id_question": "5", "id_test": 6, "id_subject": 0, "question": "Every year April 25 is observed as?", "option_1": "World Diabetes Day", "option_2": "World Cancer Day", "option_3": "World Health Day", "option_4": "World Malaria Day", "option_correct": 4, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:23"
+		}
+		
+		,
+		{
+			"id_question":"6", "id_test": 6, "id_subject": 0, "question": "Bad advances of a bank are called?", "option_1": "Book debts", "option_2": "Out of order accounts", "option_3": "Non performing assets", "option_4": "Overdrawn accounts", "option_correct": 3, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:23"
+		}
+		
+		,
+		{
+			"id_question": "7", "id_test": 6, "id_subject": 0, "question": "Which of the following countries is a member of both G8 and G20", "option_1": "Australia", "option_2": "Argentina", "option_3": "Italy", "option_4": "China", "option_correct": 3, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:23"
+		}
+		
+		,
+		{
+			"id_question": "8", "id_test": 6, "id_subject": 0, "question": "Which country test fired the \"Zarb\" surface to sea missile in April\'2016?", "option_1": "Pakisthan", "option_2": "Iran", "option_3": "Afghanisthan", "option_4": "Iraq", "option_correct": 1, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:23"
+		}
+		
+		,
+		{
+			"id_question": "9", "id_test": 6, "id_subject": 0, "question": "Which of the following indian diplomats is the author of the book \"The Exile\" ?", "option_1": "Vikas Swarup", "option_2": "Arun Kumar Singh", "option_3": "Navtej Sarna", "option_4": "Meera Shankar", "option_correct": 3, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:23"
+		}
+		
+		,
+		{
+			"id_question": "10", "id_test": 6, "id_subject": 0, "question": "Mahamaham festival is celebrated every 12 years in ?", "option_1": "Kochi, Kerala", "option_2": "Ujjain, Madhya Pradesh", "option_3": "Kumbakonam,Tamilnadu", "option_4": "Karwar,Karnataka", "option_correct": 3, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:23"
+			}
+		
+	]
+}

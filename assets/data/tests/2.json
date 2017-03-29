@@ -1,43 +1,52 @@
 {
-    "questions": [  {
-        "id_question": "1", "question": "Who has been appointed as India\u2019s First Cyber Security Chief?", "option_1": "Dinesh Bhattacharya", "option_2": "Gulshan Rai", "option_3": "Ramesh Agarwal", "option_4": "Rajesh Gupta", "option_correct": "2", "notes": ""
-    }
-    ,
-    {
-        "id_question": "2", "question": "General Muhammadu Buhari has been elected as the President of", "option_1": "Cameroon", "option_2": "Chad", "option_3": "Nigeria", "option_4": "Sudan", "option_correct": "3", "notes": ""
-    }
-    ,
-    {
-        "id_question": "3", "question": "Who has been appointed as the Chief of Western Naval Command on 31st Mar\u201915?", "option_1": "Surinder Pal Singh Cheema", "option_2": "Vikash Singh", "option_3": "Dhruv Patel", "option_4": "Kumar Gautham", "option_correct": "1", "notes": ""
-    }
-    ,
-    {
-        "id_question": "4", "question": "General Muhammadu Buhari has been elected as the President of", "option_1": "Cameroon", "option_2": "Chad", "option_3": "Nigeria", "option_4": "Sudan", "option_correct": "3", "notes": ""
-    }
-    ,
-    {
-        "id_question": "5", "question": "Who has been appointed as the Chief of Western Naval Command on 31st Mar\u201915?", "option_1": "Surinder Pal Singh Cheema", "option_2": "Vikash Singh", "option_3": "Dhruv Patel", "option_4": "Kumar Gautham", "option_correct": "1", "notes": ""
-    }
-    ,
-    {
-        "id_question": "6", "question": "Which of the following Indian state recently launched Aahar Scheme, a subsidised meal scheme for urban poor?", "option_1": "Tamilnadu", "option_2": "Bihar", "option_3": "Odisha", "option_4": "Chattisgarh", "option_correct": "3", "notes": ""
-    }
-    ,
-    {
-        "id_question": "7", "question": "Operation launched by GOI to evacuate Indians from Yemen is called", "option_1": "Operation Nishaant", "option_2": "Operation Raahat", "option_3": "Operation Mrutunjay", "option_4": "Operation Mitra", "option_correct": "2", "notes": ""
-    }
-    ,
-    {
-        "id_question": "8", "question": "Which of the following Indian state recently launched Aahar Scheme, a subsidised meal scheme for urban poor?", "option_1": "Tamilnadu", "option_2": "Bihar", "option_3": "Odisha", "option_4": "Chattisgarh", "option_correct": "3", "notes": ""
-    }
-    ,
-    {
-        "id_question": "9", "question": "Operation launched by GOI to evacuate Indians from Yemen is called", "option_1": "Operation Nishaant", "option_2": "Operation Raahat", "option_3": "Operation Mrutunjay", "option_4": "Operation Mitra", "option_correct": "2", "notes": ""
-    }
-    ,
-    {
-        "id_question": "10", "question": "Which of the following is one of the two schemes introduced in the new FTP Policy?", "option_1": "Manufacturing Exports from India Scheme", "option_2": "Services Imports from India Scheme", "option_3": "Machineries Exports from India Scheme", "option_4": "Services Exports from India Scheme", "option_correct": "4", "notes": ""
-    }
-    
-    ]
+    "questions": [  
+		{
+			"id_question": "1", "id_test": 2, "id_subject": 0, "question": "Who has been appointed as the Chief of Western Naval Command on 31st Mar’15?", "option_1": "Surinder Pal Singh Cheema", "option_2": "Vikash Singh", "option_3": "Dhruv Patel", "option_4": "Kumar Gautham", "option_correct": 1, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:15:06"
+		}
+		
+		,
+		{
+			"id_question": "2", "id_test": 2, "id_subject": 0, "question": "General Muhammadu Buhari has been elected as the President of", "option_1": "Cameroon", "option_2": "Chad", "option_3": "Nigeria", "option_4": "Sudan", "option_correct": 3, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:15:06"
+		}
+		
+		,
+		{
+			"id_question": "3", "id_test": 2, "id_subject": 0, "question": "Which of the following Indian state recently launched Aahar Scheme, a subsidised meal scheme for urban poor?", "option_1": "Tamilnadu", "option_2": "Bihar", "option_3": "Odisha", "option_4": "Chattisgarh", "option_correct": 3, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:15:06"
+		}
+		
+		,
+		{
+			"id_question": "4", "id_test": 2, "id_subject": 0, "question": "Which of the following Indian state recently launched Aahar Scheme, a subsidised meal scheme for urban poor?", "option_1": "Tamilnadu", "option_2": "Bihar", "option_3": "Odisha", "option_4": "Chattisgarh", "option_correct": 3, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:15:06"
+		}
+		
+		,
+		{
+			"id_question": "5", "id_test": 2, "id_subject": 0, "question": "Which of the following is one of the two schemes introduced in the new FTP Policy?", "option_1": "Manufacturing Exports from India Scheme", "option_2": "Services Imports from India Scheme", "option_3": "Machineries Exports from India Scheme", "option_4": "Services Exports from India Scheme", "option_correct": 4, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:15:06"
+		}
+		
+		,
+		{
+			"id_question": "6", "id_test": 2, "id_subject": 0, "question": "The Government of India has extended the national Food Security Act by", "option_1": "4 months", "option_2": "6 months", "option_3": "8 months", "option_4": "10 months", "option_correct": 2, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:15:06"
+		}
+		
+		,
+		{
+			"id_question": "7", "id_test": 2, "id_subject": 0, "question": "Pedro Cateriano Bellido was appointed as seventh Prime Minister of", "option_1": "Chile", "option_2": "Argentina", "option_3": "Peru", "option_4": "Paraguay", "option_correct": 3, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:15:06"
+		}
+		
+		,
+		{
+			"id_question": "8", "id_test": 2, "id_subject": 0, "question": "As per the agreement between India and France, the French National Railways has agreed to assist India in", "option_1": "Ultra High Speed Trains", "option_2": "High Speed Trains", "option_3": "Semi-High Speed Trains", "option_4": "All the above", "option_correct": 3, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:15:06"
+		}
+		
+		,
+		{
+			"id_question": "9", "id_test": 2, "id_subject": 0, "question": "As per the recently notified National Judicial Appointments Commission (NJAC) Act, the NJAC will comprise a", "option_1": "5 Membered body", "option_2": "6 Membered body", "option_3": "7 Membered body", "option_4": "8 Membered body", "option_correct": 2, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:15:06"
+		}
+		
+		,
+		{
+			"id_question": "10", "id_test": 2, "id_subject": 0, "question": "Recently Finance Minister Arun Jaitely launches FM transmission of Vividh Bharati Service in","option_1": "Haryana","option_2": "Manipur","option_3": "Rajasthan","option_4": "New Delhi","option_correct": 4,"notes": "","status": 1,"id_user": 0,"date_created": "0000-00-00 00: 00: 00","date_updated": "2017-03-28 06: 15: 06"
+		}		
+	]
 }

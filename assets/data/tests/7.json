@@ -1,0 +1,53 @@
+{
+    "questions": [ 
+		{
+			"id_question": "1", "id_test": 7, "id_subject": 0, "question": "Monte Carlo Masters and Miami Open tournaments are related to ", "option_1": "Badminton", "option_2": "Golf", "option_3": "Formula one", "option_4": "Tennis", "option_correct": 4, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:35"
+		}
+		
+		,
+		{
+			"id_question": "2", "id_test": 7, "id_subject": 0, "question": "Identify the mismatched pair with regard to country and capital", "option_1": "Mexico - Mexico City", "option_2": "Venezuela - Caracas", "option_3": "Peru - Santiago", "option_4": "Colombia - Bogota", "option_correct": 3, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:35"
+		}
+		
+		,
+		{
+			"id_question": "3", "id_test": 7, "id_subject": 0, "question": "World Day of Social Justice is Observed every year on ?", "option_1": "January 20", "option_2": "January 28", "option_3": "February 20", "option_4": "March 28", "option_correct": 3, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:35"
+		}
+		
+		,
+		{
+			"id_question": "4", "id_test": 7, "id_subject": 0, "question": "Balpakram National Park is located in the State of ?", "option_1": "Tripura", "option_2": "Manipur", "option_3": "Meghalaya", "option_4": "West Bengal", "option_correct": 3, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:35"
+		}
+		
+		,
+		{
+			"id_question": "5", "id_test": 7, "id_subject": 0, "question": "Kigali Central Prison is turned into a historical museum. It is in ?", "option_1": "Uganda", "option_2": "Rwanda", "option_3": "Burundi", "option_4": "Somalia", "option_correct": 2, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:35"
+		}
+		
+		,
+		{
+			"id_question": "6", "id_test": 7, "id_subject": 0, "question": "Pranav Dhanawade is associated with which of the following sports ?", "option_1": "Hockey", "option_2": "Cricket", "option_3": "Archery", "option_4": "Wrestling", "option_correct": 2, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:35"
+		}
+		
+		,
+		{
+			"id_question": "7", "id_test": 7, "id_subject": 0, "question": "India will manufacture Kamov 226 Choppers jointly with which of the following countries", "option_1": "Japan", "option_2": "South Korea", "option_3": "Russia", "option_4": "China", "option_correct": 3, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:35"
+		}
+		
+		,
+		{
+			"id_question": "8", "id_test": 7, "id_subject": 0, "question": "Who started \" Bachpan Bachao Andolan\" ?", "option_1": "Malala yousufzai", "option_2": "Medha Patkar", "option_3": "Kailash Satyarthi", "option_4": "Shanta Sinha", "option_correct": 3, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:35"
+		}
+		
+		,
+		{
+			"id_question": "9", "id_test": 7, "id_subject": 0, "question": "Cartography is the study of ", "option_1": "Cartoons", "option_2": "Carrots", "option_3": "Cartilages", "option_4": "Maps", "option_correct": 4, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:35"
+		}
+		
+		,
+		{
+			"id_question": "10", "id_test": 7, "id_subject": 0, "question": "What is the full form of EPS as used in stock markets", "option_1": "Equity For Share", "option_2": "Equilibrium of Private Securities", "option_3": "Earnings Per Share", "option_4": "Elongated Period of Settlement", "option_correct": 3, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:35"
+		}
+		
+	]
+}

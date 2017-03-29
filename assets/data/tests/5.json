@@ -1,22 +1,52 @@
 {
-    "questions": [  {
-        "id_question": "1", "question": "In India, the Telemedicine Initiative has been encouraged by", "option_1": "Indian Naval Command", "option_2": "Border Security Force", "option_3": "Kerala Government", "option_4": "Green Peace NGO", "option_correct": "2", "notes": ""
-    }
-    ,
-    {
-        "id_question": "2", "question": "Who has been appointed as the new Ambassador to France?", "option_1": "Arun Bhatia", "option_2": "John Snow", "option_3": "Mohan Kumar", "option_4": "Kiran Kapoor", "option_correct": "3", "notes": ""
-    }
-    ,
-    {
-        "id_question": "3", "question": "In India, the Telemedicine Initiative has been encouraged by", "option_1": "Indian Naval Command", "option_2": "Border Security Force", "option_3": "Kerala Government", "option_4": "Green Peace NGO", "option_correct": "2", "notes": ""
-    }
-    ,
-    {
-        "id_question": "4", "question": "BHEL Commissioned 600 MW Thermal Unit of the OP Jindal Super Thermal Power\r\nProject at", "option_1": "Gujarat", "option_2": "Madhya Pradesh", "option_3": "Chhattisgarh", "option_4": "Rajasthan", "option_correct": "3", "notes": ""
-    }
-    ,
-    {
-        "id_question": "5", "question": "BHEL Commissioned 600 MW Thermal Unit of the OP Jindal Super Thermal Power\r\nProject at", "option_1": "Gujarat", "option_2": "Madhya Pradesh", "option_3": "Chhattisgarh", "option_4": "Rajasthan", "option_correct": "3", "notes": ""
-    }
-    ]
+    "questions": [  
+		{
+			"id_question": "1", "id_test": 5, "id_subject": 0, "question": "Which of the following is largest grenning space in Hyderabad city", "option_1": "Mahavir harina vanastali national park", "option_2": "KBR Park", "option_3": "Indira Park", "option_4": "Mrugavani National Park", "option_correct": 1, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00: 00: 00", "date_updated": "2017-03-28 06: 16: 13"
+		}
+		
+		,
+		{
+			"id_question": "2", "id_test": 5, "id_subject": 0, "question": "Mrugavani national park is situated in", "option_1": "Jubilee hills", "option_2": "Vanasthalipuram", "option_3": "Chilkur", "option_4": "Secunderabad", "option_correct": 4, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00: 00: 00", "date_updated": "2017-03-28 06: 16: 13"
+		}
+		
+		,
+		{
+			"id_question": "3", "id_test": 5, "id_subject": 0, "question": "Etunagaram wildlife sanctuary situated in the district of", "option_1": "Karimnagar", "option_2": "Warangal", "option_3": "Khammam", "option_4": "Rangareddy", "option_correct": 2, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00: 00: 00", "date_updated": "2017-03-28 06: 16: 13"
+		}
+		
+		,
+		{
+			"id_question": "4", "id_test": 5, "id_subject": 0, "question": "Manjira wild life sanctuary is located at", "option_1": "Medak", "option_2": "Sangareddy", "option_3": "Mahaboobnagar", "option_4": "Nalgonda", "option_correct": 1, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00: 00: 00", "date_updated": "2017-03-28 06: 16: 13"
+		}
+		
+		,
+		{
+			"id_question": "5", "id_test": 5, "id_subject": 0, "question": "Which of the following district of telangana called gateway of south india", "option_1": "Adilabad ", "option_2": "Karimnagar", "option_3": " Nizambad", "option_4": "Medak", "option_correct": 1, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00: 00: 00", "date_updated": "2017-03-28 06: 16: 13"
+		}
+		
+		,
+		{
+			"id_question": "6", "id_test": 5, "id_subject": 0, "question": "Length of the godavari river is", "option_1": "1465 km ", "option_2": " 1400 km", "option_3": "1500 km", "option_4": " 1565 km", "option_correct": 1, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00: 00: 00", "date_updated": "2017-03-28 06: 16: 13"
+		}
+		
+		,
+		{
+			"id_question": "7", "id_test": 5, "id_subject": 0, "question": "Ancient name of Nizamabad", "option_1": "Yedulapuram ", "option_2": "Yenagandula", "option_3": "Palampur", "option_4": " Indoore", "option_correct": 4, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00: 00: 00", "date_updated": "2017-03-28 06: 16: 13"
+		}
+		
+		,
+		{
+			"id_question": "8", "id_test": 5, "id_subject": 0, "question": "Description of the priority sectors was formalized for the first time in india in the year", "option_1": "1969", "option_2": "1972", "option_3": "1980", "option_4": "2014", "option_correct": 2, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00: 00: 00", "date_updated": "2017-03-28 06: 16: 13"
+		}
+		
+		,
+		{
+			"id_question": "9", "id_test": 5, "id_subject": 0, "question": "Grey Revolution refers to", "option_1": "Reduction in wastages of food grains, fruits and vegetables", "option_2": "Non conventional energy resources", "option_3": "Manures and fertilizers", "option_4": "Production of leafy vegetables", "option_correct": 3, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00: 00: 00", "date_updated": "2017-03-28 06: 16: 13"
+		}
+		
+		,
+		{
+			"id_question": "10", "id_test": 5, "id_subject": 0, "question": "Categories under priority sector are", "option_1": "Agriculture;MSME;Export credit","option_2": "Education; Housing","option_3": "Social Infrastructure","option_4": "Renewable Energy 5)All of above","option_correct": 5,"notes": "","status": 1,"id_user": 0,"date_created": "0000-00-00 00: 00: 00","date_updated": "2017-03-28 06: 16: 13"
+			}
+	]
 }

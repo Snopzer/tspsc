@@ -15,7 +15,27 @@
         "id_test": "4", "name": "Test 4", "description": "Sample Test for Testing Purpose", "free": "1", "fee": null, "questions": "10", "duration": "00:00:00"
     },
 	{
-        "id_test": "5", "name": "Test 5", "description": "Sample Test for Testing Purpose", "free": "1", "fee": null, "questions": "5", "duration": "00:00:00"
+        "id_test": "5", "name": "Test 5", "description": "Sample Test for Testing Purpose", "free": "1", "fee": null, "questions": "10", "duration": "00:00:00"
+    }
+	,
+	{
+        "id_test": "6", "name": "Test 6", "description": "Sample Test for Testing Purpose", "free": "1", "fee": null, "questions": "10", "duration": "00:00:00"
+    }
+	,
+	{
+        "id_test": "7", "name": "Test 7", "description": "Sample Test for Testing Purpose", "free": "1", "fee": null, "questions": "10", "duration": "00:00:00"
+    }
+	,
+	{
+        "id_test": "8", "name": "Test 8", "description": "Sample Test for Testing Purpose", "free": "1", "fee": null, "questions": "10", "duration": "00:00:00"
+    }
+	,
+	{
+        "id_test": "9", "name": "Test 9", "description": "Sample Test for Testing Purpose", "free": "1", "fee": null, "questions": "10", "duration": "00:00:00"
+    }
+	,
+	{
+        "id_test": "10", "name": "Test 10", "description": "Sample Test for Testing Purpose", "free": "1", "fee": null, "questions": "10", "duration": "00:00:00"
     }
     ]
 }

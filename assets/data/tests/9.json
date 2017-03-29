@@ -1,0 +1,42 @@
+{
+    "questions": [ {
+        "id_question": "1", "id_test": 9, "id_subject": 0, "question": "Who wrote “Veera Telangana” ?", "option_1": "C Narayana Reddy", "option_2": "Suravaram Pratapa reddy", "option_3": "Ravi Narayana Reddy", "option_4": "Dasarathi Krishnamacharya", "option_correct": 3, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:58"
+    }
+    ,
+    {
+        "id_question": "2", "id_test": 9, "id_subject": 0, "question": "As per 2011 census density of population in Telangana State", "option_1": "306", "option_2": "350", "option_3": "382", "option_4": "390", "option_correct": 1, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:58"
+    }
+    ,
+    {
+        "id_question": "3", "id_test": 9, "id_subject": 0, "question": "Hyderabad Tenancy and Agricultural land act was enacted in the year", "option_1": "1948", "option_2": "1950", "option_3": "1956", "option_4": "1972", "option_correct": 2, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:58"
+    }
+    ,
+    {
+        "id_question": "4", "id_test": 9, "id_subject": 0, "question": "Major source of irrigation for agriculture in the telangana state", "option_1": "Canals", "option_2": "Tanks", "option_3": "Wells", "option_4": "Water-Harvesting pits", "option_correct": 3, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:58"
+    }
+    ,
+    {
+        "id_question": "5", "id_test": 9, "id_subject": 0, "question": "In Telangana, Agriculture sector contributed to GSDP at current prices for the year 2014-15", "option_1": "17.5%", "option_2": "25.0%", "option_3": "57.1%", "option_4": "70.0%", "option_correct": 3, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:58"
+    }
+    ,
+    {
+        "id_question": "6", "id_test": 9, "id_subject": 0, "question": "Industrial growth rate of telangana during the year 2014-15:", "option_1": "3.1%", "option_2": "4.1%", "option_3": "5.1%", "option_4": "6.1%", "option_correct": 2, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:58"
+    }
+    ,
+    {
+        "id_question": "7", "id_test": 9, "id_subject": 0, "question": "Which political party gave the slogan ", "option_1": "", "option_2": "", "option_3": "", "option_4": "", "option_correct": 0, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:58"
+    }
+    ,
+    {
+        "id_question": "8", "id_test": 9, "id_subject": 0, "question": "Which political party gave the slogan \" One-Vote-Two-States\" in the context of Telangana Statehood?", "option_1": "Congress Party", "option_2": "Communist Party of India", "option_3": "Bharatiya Janata Party", "option_4": "Telangana Rashtra Samithi", "option_correct": 3, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:58"
+    }
+    ,
+    {
+        "id_question": "9", "id_test": 9, "id_subject": 0, "question": "In Telangana Budubunga is ?", "option_1": "a tree", "option_2": "a birb", "option_3": "a type of pot", "option_4": "a fruit", "option_correct": 2, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:58"
+    }
+    ,
+    {
+        "id_question": "10", "id_test": 9, "id_subject": 0, "question": "Secunderabad was named after whom ?", "option_1": "Secunder Pasha", "option_2": "Secunder Bakht", "option_3": "Secunder Jha", "option_4": "Secunder Lodhi", "option_correct": 3, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:16:58"
+    }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "questions": [ 
+		{
+			"id_question": "1", "id_test": 10, "id_subject": 0, "question": "The Mozam Jahi market in Hyderabad was named after", "option_1": "the second son of Usman Ali Khan", "option_2": "the first son of Usman Ali Khan", "option_3": "the brother of Usman Ali Khan", "option_4": "the grand son of Mehboob Ali Khan", "option_correct": 1, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:17:10"
+		}		
+		,
+		{
+			"id_question": "2", "id_test": 10, "id_subject": 0, "question": "During the 1857 revolt in Hyderabad Turrebaz Khan was shot dead at", "option_1": "Medak", "option_2": "Shameerpet", "option_3": "Toopran", "option_4": "Bhongir", "option_correct": 3, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:17:10"
+		}		
+		,
+		{
+			"id_question": "3", "id_test": 10, "id_subject": 0, "question": "Khilashapuram in warangal district was associated with", "option_1": "Padmanayakas", "option_2": "Sarvai Papanna", "option_3": "Akkanna Madanna", "option_4": "Gona Budda Reddy", "option_correct": 2, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:17:10"
+		}		
+		,
+		{
+			"id_question": "4", "id_test": 10, "id_subject": 0, "question": "Who proposed the term ecosystem?", "option_1": "Rieter", "option_2": "Odum", "option_3": "Earnest Haekel", "option_4": "Tansely", "option_correct": 4, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:17:10"
+		}		
+		,
+		{
+			"id_question": "5", "id_test": 10, "id_subject": 0, "question": "Maneru river is a tributary of", "option_1": "Godavari", "option_2": "Krishna", "option_3": "Penganga", "option_4": "Manjeera", "option_correct": 1, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:17:10"
+		}		
+		,
+		{
+			"id_question": "6", "id_test": 10, "id_subject": 0, "question": "Identify the law professor who was a member of a Sri krishna Committee", "option_1": "Prof.Vikram Singh", "option_2": "Prof. Ranabir Singh", "option_3": "Prof. V. K. Duggal", "option_4": "Prof. K. Nageswar Rao", "option_correct": 2, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:17:10"
+		}		
+		,
+		{
+			"id_question": "7", "id_test": 10, "id_subject": 0, "question": "Who is the author of famous song \"Jaya Jayahe Telangana\"", "option_1": "Goreti Venkanna", "option_2": "Gaddar", "option_3": "Guda Anjaiah", "option_4": "Ande Sri", "option_correct": 4, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:17:10"
+		}		
+		,
+		{
+			"id_question": "8", "id_test": 10, "id_subject": 0, "question": "Name the Pension scheme launched by the Telangana Government", "option_1": "Bharosa", "option_2": "Aasara", "option_3": "Roshini", "option_4": "Sahaya", "option_correct": 2, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:17:10"
+		}
+		,
+		{
+			"id_question": "9", "id_test": 10, "id_subject": 0, "question": "Komaravelli Mallanna Temple is located in the district of ", "option_1": "Medak", "option_2": "Ranga Reddy", "option_3": "Karimnagar", "option_4": "Warangal", "option_correct": 4, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-28 06:17:10"
+		}
+		,
+		{
+			"id_question": "10", "id_test": 1, "id_subject": 0, "question": "The Popular dance form during the Kakatiya period was", "option_1": "Chindu", "option_2": "Yakshaganam", "option_3": "Perini Shivatandavam", "option_4": "Kakatakeli", "option_correct": 3, "notes": "", "status": 1, "id_user": 0, "date_created": "0000-00-00 00:00:00", "date_updated": "2017-03-26 21:33:01"
+		}		
+	]
+}
